@@ -8,11 +8,11 @@
 
 ## About me / 关于我
 
-I'm **Niki Hu**, from Shanghai, with an **MSc in Creative Robotics at UAL CCI** and experience in **AI product management and operations at Pagepeek, London**.
+I'm **Niki Hu**, from Shanghai, with an **MSc in Creative Robotics at UAL CCI** and experience in **AI product management and operations at [Pagepeek](https://pagepeek.ai/), London**.
 
 I explore the connections between art, AI and people through product work, physical prototypes and AI-assisted web experiences.
 
-来自上海，UAL CCI 创意机器人硕士背景，曾在伦敦 Pagepeek 从事 AI 产品经理与运营工作。我的项目连接艺术、交互、机器人和 AI 产品实践。
+来自上海，UAL CCI 创意机器人硕士背景，曾在伦敦 [Pagepeek](https://pagepeek.ai/) 从事 AI 产品经理与运营工作。我的项目连接艺术、交互、机器人和 AI 产品实践。
 
 `AI Product` `Operations` `Creative Robotics` `Interaction Design` `Creative Coding` `AI-assisted Development`
 
@@ -62,8 +62,8 @@ Selected cases are available on my [portfolio](https://nikihu-a.github.io/#work)
 
 | Project | Focus / 内容 | View |
 | :--- | :--- | :--- |
-| **Pagepeek — Social Content** | 面向研究、PPT、引文、知识库与 PDF 阅读场景的产品传播素材。 | [Case study](https://nikihu-a.github.io/#/pagepeek) |
-| **Pagepeek — Events** | 线下产品展示、演讲与交流的活动记录，作为 Pagepeek 工作案例的一部分。 | [Case study](https://nikihu-a.github.io/#/pagepeek) |
+| **Pagepeek — Social Content** | 面向研究、PPT、引文、知识库与 PDF 阅读场景的产品传播素材。 | [Official site](https://pagepeek.ai/) · [Case study](https://nikihu-a.github.io/#/pagepeek) |
+| **Pagepeek — Events** | 线下产品展示、演讲与交流的活动记录，作为 Pagepeek 工作案例的一部分。 | [Official site](https://pagepeek.ai/) · [Case study](https://nikihu-a.github.io/#/pagepeek) |
 | **Lost Crab & Little Flower** | 机器学习与 Arduino 机器人合作项目。个人工作包括前期研究、小机器人代码、项目文档，以及协作应用 Q-learning。 | [Case study](https://nikihu-a.github.io/#/lost-crab) |
 | **Lumi** | 面向情感支持的毛绒机器人概念。 | Project overview |
 | **Moodlight** | 探索技术与静心体验的灯光装置。 | Project overview |
