@@ -75,7 +75,7 @@ Selected cases are available on my [portfolio](https://nikihu-a.github.io/#work)
 | **LINK** | 围绕交流和共同游玩设计的 VR 社交游乐场概念。 | [Case study](https://nikihu-a.github.io/#/link) |
 | **Dream Printer** | 连接梦境记录、解释叙事与打印输出的床边设备概念。 | [Case study](https://nikihu-a.github.io/#/dream-printer) |
 | **Smell Travel** | 通过城市气味与个性化嗅觉选择探索旅行体验。 | Project overview |
-| **Sound of April** | 用 TouchDesigner 将声音映射为粒子运动的可视化创作。 | Project overview |
+| **音频响应粒子实验 / Audio-reactive Particles** | TouchDesigner 音频分析、频段映射、参数控制与粒子渲染。 | [Technical case](https://nikihu-a.github.io/#/audio-particles) |
 | **The Second Moon** | 围绕气候与太阳辐射调节展开的推想设计。 | Project overview |
 
 <details>
