@@ -14,13 +14,6 @@ I explore the connections between art, AI and people through product work, physi
 
 来自上海，UAL CCI 创意机器人硕士背景，曾在伦敦 Pagepeek 从事 AI 产品经理与运营工作。我的项目连接艺术、交互、机器人和 AI 产品实践。
 
-<p align="center">
-  <img src="assets/niki-indoor.jpg" width="44%" alt="Niki 的室内生活照 / Niki, an indoor portrait">
-  &nbsp;&nbsp;
-  <img src="assets/niki-courtyard.jpg" width="25%" alt="Niki 在建筑庭院中的照片 / Niki in an architectural courtyard">
-</p>
-<p align="center"><sub>A little beyond the projects. / 镜头里的我</sub></p>
-
 `AI Product` `Operations` `Creative Robotics` `Interaction Design` `Creative Coding` `AI-assisted Development`
 
 ## Skills & project tools / 技能与项目工具
